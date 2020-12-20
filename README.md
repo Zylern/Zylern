@@ -6,4 +6,4 @@
 
 - 🤗 Contact me if you need help.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Zylern&theme=vue&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zylern&theme=buefy&show_icons=true)
