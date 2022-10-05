@@ -2,7 +2,7 @@
 
 - 😅 I want to learn everything in the field of programming.
 
-- 📫 Find me on Telegram - [@Zylern](https://t.me/Zylern).
+- 📫 Find me on Telegram - [@SR5317](https://t.me/SR5317).
 
 - 🤗 Contact me if you need help.
 
